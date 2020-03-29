@@ -1,4 +1,8 @@
-# Profitability-of-Cryptocurrency-Pump-and-Dump-Scheme
-Pump and Dump (P\&D), a price manipulation scheme achieved by spreading misinformation, has a long history in the stock market and is usually considered as unlawful. In cryptocurrency markets, however, this scheme has not been well regulated; P\&D schemes are uniquely organized through a new type of social media platform. Since there have been few investigations on P\&D schemes in the cryptocurrency market so far, this paper aims to examine the features of P\&D organized through Telegram and confirm distinguishable characteristics in comparison with conventional stock markets. In addition, it forms a regression model to clarify variables which contribute to the profitability of P\&D attempts; to measure the significance of each variable correctly, dataset is divided into two based upon where P\&D took place (exchange) and regression models are set accordingly. It turns out that exchange and date of the pump are important, but the significance for other variables varies across exchange. Furthermore, this paper tries to build a classification model to detect a successful pump and achieved around 75\% of accuracy using machine learning techniques.Pump and Dump (P&D), a price manipulation scheme achieved by spreading misinformation, has a long history in the stock market and usually considered as unlawful. In cryptocurrency markets, however, this scheme has not been well regulated; it is uniquely organized through a new type of social media platform. Since there have been few investigations on P&D schemes in the cryptocurrency market so far, this paper aims to examine the features of P&D organized through Telegram and clarify the important variables which contribute to the profitability of P\&D attempts by forming a regression model. Furthermore, it tries to build a classification model to detect a successful pump using machine learning techniques. 
+# Profitability-of-Cryptocurrency-Pump-and-Dump-Schemes
+still editing paper
 
-*The whole data is not available since a source data is not on public.
+## Programming Code
++ eda.ipynb: Explanatory Data Analysis, Data Visualsization
++ preprocessing.ipynb: Preprocessing
++ regression.ipynb: Regression model
++ classification.ipynb: Classification model
