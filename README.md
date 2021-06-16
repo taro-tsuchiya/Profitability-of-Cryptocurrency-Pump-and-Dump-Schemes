@@ -15,6 +15,8 @@ These notebooks are mainly to illustrate how I get the results of the paper. The
 + `regression.ipynb`: Regression model (Bayesian regression model through MCMC sampling)
 + `classification.ipynb`: Classification model (Random Forest, XGBoost, LightGBM)
 
+Some of the output (the table) in the notebook look different when you open them on your browser. I highly recommend to look them on your local environment.
+
  ## Dataset
 
 + Main dataset is proprietary and derived from [PumpOlymp](https://pumpolymp.com/).  
@@ -46,7 +48,7 @@ Tsuchiya, T. Profitability of cryptocurrency Pump and Dump schemes. Digit Financ
 
 ## Acknowledgement
 
-I sincerely thank Professor Teruo Nakatsuma and the members of his research team at Keio University Faculty of Economics as well as Professor David Farber at Cyber Civilization Research Center for their advice. I also appreciate the editors and reviewers in the Journal of Digital Finance (Springer) for their efforts and continuous feedbacks upon each submission. These were critical to refining my article. 
+I sincerely thank Professor Teruo Nakatsuma and the members of his research team at Keio University Faculty of Economics as well as Professor David Farber at Cyber Civilization Research Center for their comments on the article. I also greatly appreciate the editors and reviewers in the Journal of Digital Finance (Springer) for their efforts and continuous feedbacks upon each submission. These were extremely helpful and critical to refining my article. 
 
 Any inquiry should be sent to the author's email taro.f.tsuchiya<at>keio.jp
 
