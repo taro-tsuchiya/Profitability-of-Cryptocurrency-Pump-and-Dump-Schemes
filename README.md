@@ -48,6 +48,6 @@ Tsuchiya, T. Profitability of cryptocurrency Pump and Dump schemes. Digit Financ
 
 ## Acknowledgement
 
-I sincerely thank Professor Teruo Nakatsuma and the many relevant members at Keio University Faculty of Economics, as well as Professor David Farber at Cyber Civilization Research Center for their advice on the article. I also greatly appreciate the editors and reviewers in the Journal of Digital Finance (Springer) for their efforts and continuous feedbacks upon each submission. These were extremely helpful and critical to refining my article. 
+I sincerely thank Professor Teruo Nakatsuma and the many relevant members at Keio University Faculty of Economics, as well as Professor David Farber at Cyber Civilization Research Center for their advice on the article. I also greatly appreciate the continued feedback from the editors and the reviewers in the Journal of Digital Finance (Springer) upon each submission. These were extremely helpful and critical to refining my article. 
 
 Any inquiry should be sent to the author's email taro.f.tsuchiya\<at\>keio.jp
