@@ -1,7 +1,9 @@
 # Profitability of cryptocurrency Pump and Dump schemes
 Taro Tsuchiya (Keio University Faculty of Economics)
 
-This paper is published in the Journal of Digital Finance (Springer). The paper can be accessed from [here](https://link.springer.com/article/10.1007/s42521-021-00034-6).
+This paper is published in the Journal of Digital Finance (Springer). The paper can be accessed from [here](https://link.springer.com/article/10.1007/s42521-021-00034-6). 
+
+Springer Nature SharedIt kindly provides the publicly accessible view-only (full text) article through this [link](https://rdcu.be/cvXX0) (as of August 23rd, 2021). 
 
 ## Abstract
 
@@ -37,14 +39,12 @@ Tsuchiya, T. Profitability of cryptocurrency Pump and Dump schemes. Digit Financ
   title={Profitability of cryptocurrency Pump and Dump schemes},
   author={Tsuchiya, Taro},
   journal={Digital Finance},
-  pages={},
+  pages={149–167},
   year={2021},
   publisher={Springer},
   doi={https://doi.org/10.1007/s42521-021-00034-6}
 }
 ```
-
-*pages: TBD
 
 ## Acknowledgement
 
